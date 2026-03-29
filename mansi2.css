@@ -1,0 +1,29 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+html,body{
+    width: 100%;
+    height: 100%;
+    
+}
+
+body{
+    background-color: antiquewhite;
+ 
+}
+.colorfont{
+color: blue;
+background-color:plum;
+text-align: center;
+
+}
+ .mansi2{
+    color: brown;
+    background-color: aquamarine; 
+    text-align: center;
+ }   
+.ganesh{
+color: rgb(226, 43, 76);
+
+}
